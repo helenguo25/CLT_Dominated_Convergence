@@ -28,3 +28,6 @@ The Dominated Convergence Theorem is introduced as a mathematical principle that
 4. **Launch the App:** Run the Streamlit app by executing the following commands in your terminal:
 
    streamlit run clt_proof_detail.py
+
+## Screencast:
+![](screencast.gif)
